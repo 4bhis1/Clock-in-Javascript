@@ -2,3 +2,6 @@
 
 
 ## [Click here to visit the hosted site](https://4bhis1.github.io/Clock-in-Javascript/)
+
+
+<img src="images/utc.png">
