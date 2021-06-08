@@ -1,0 +1,65 @@
+.time_class{
+    background-color: aqua;
+    justify-content: center;
+    max-width: max-content;
+    margin: 0 auto;
+    margin-top: 10%;
+    padding: 10px;
+    border-radius: 5px;
+    box-shadow: 4px 4px 4px #888888;
+    
+}
+
+#time{
+    font-size: 15vw;
+}
+
+#day{
+    padding: 2vw;
+    font-size: 4vw;
+}
+
+#date{
+    display: flex;
+    /* width: inherit; */
+    font-size: 4vw;
+    text-align: right;
+}
+
+#AM{
+    display:inline-flex;
+    font-size: 3vw;
+    font-weight: bold;
+}
+
+#da{
+    display: flex;
+    text-align: right;
+}
+
+#button{
+    background-color: rgb(45, 196, 146);
+    max-width: max-content;
+    padding: 4px;
+    
+    border-radius: 10px;
+    box-shadow: 2px 2px;
+}
+
+#button:hover{
+    background-color: rgb(125, 189, 168);
+    cursor: pointer;
+}
+
+#uctime{
+    /* background-color: #888888; */
+    padding-left: 12vw;
+    max-width: max-content;
+    font-size: 10vw;
+    display: none;
+}
+
+body{
+    background-color: rgb(62, 160, 160);
+    margin: 0;
+}
